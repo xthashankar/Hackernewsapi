@@ -1,0 +1,11 @@
+ h1{
+    display:block;
+    padding: 10px;
+    align-items : center;
+    background-color :#ededed;
+    width :50%;
+    margin :5px auto;
+    color:black;
+    height: 50px;
+    text-align: center;
+}
